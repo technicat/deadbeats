@@ -10,5 +10,5 @@ Interestingly, they comprise two categories.
 ## apartments
 - Liberty Blvd: After dragging out a lease application for a week while I burned cash on hotels and murmuring about requiring me to pay a whole year's rent in advance, I said never mind and they kept $500 of deposit (and only returned the amount above it after I called about it three weeks later and wrote an angry review).
 - Domain: They reserve the right to increase the security deposit apparently even the night before move-in after taking the maximum reservation period to approve the application. When I said never mind, they said what if we don't increase it? When I said now I really don't want to move in, they said well you're not getting any of it back, totalling around $300.
-- Centre Pointe: deducted prorated final month rent from my deposit even though I already paid that rent. Also they gave away my parking spot before I moved out.
+- Centre Pointe: deducted prorated final month rent, around $200, from my deposit even though I already paid that rent. Also they gave away my parking spot before I moved out.
 
