@@ -1,5 +1,7 @@
 # deadbeats
 
+Interestingly, they comprise two categories.
+
 ## game publishers and studios
 - Fingerprint Play: after I cancelled the app publishing contract due to non-payment they continued publishing on a partner device (Handspring?) and collecting royalties without paying me. I only found out when Handspring asked me to renew the contract. According to the much delayed royalty report, they owe me $20.
 - nxTomo Games: brought me to Hong Kong for a contract including a return flight at the end then changed the contract length and refused to pay $50 to reschedule the return flight, said they didn't have the budget for it.
